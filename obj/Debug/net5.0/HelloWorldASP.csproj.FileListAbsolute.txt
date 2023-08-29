@@ -1,0 +1,5 @@
+/Users/c5328379/HelloWorldASP/HelloWorldASP/obj/Debug/net5.0/HelloWorldASP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/c5328379/HelloWorldASP/HelloWorldASP/obj/Debug/net5.0/HelloWorldASP.AssemblyInfoInputs.cache
+/Users/c5328379/HelloWorldASP/HelloWorldASP/obj/Debug/net5.0/HelloWorldASP.AssemblyInfo.cs
+/Users/c5328379/HelloWorldASP/HelloWorldASP/obj/Debug/net5.0/HelloWorldASP.csproj.CoreCompileInputs.cache
+/Users/c5328379/HelloWorldASP/HelloWorldASP/obj/Debug/net5.0/HelloWorldASP.MvcApplicationPartsAssemblyInfo.cache
